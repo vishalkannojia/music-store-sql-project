@@ -83,8 +83,6 @@ This is the database structure of the Music Store project.
 
 ## 📸 Screenshots
 
-## Screenshots
-
 ![Query1](Screenshots/query 1.png)
 ![Query2](Screenshots/Query 2.png)
 ![Query3](Screenshots/Query 3.png)

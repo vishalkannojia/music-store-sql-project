@@ -87,16 +87,6 @@ This is the database structure of the Music Store project.
 
 ---
 
-## 📁 Files in this Project
-
-* queries.sql → Basic queries
-* advanced_queries.sql → Advanced SQL queries
-* business_questions.sql → SQL with questions
-* ERD.png → Database diagram
-* screenshots/ → Query output images
-
----
-
 ## ✅ Project Purpose
 
 This project was created for practice and to demonstrate SQL skills for resume and interview preparation.

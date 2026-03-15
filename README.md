@@ -83,13 +83,13 @@ This is the database structure of the Music Store project.
 
 ## 📸 Screenshots
 
-![Query1](Screenshots/query 1.png)
+![Query1](Screenshots/Query1.png)
 
-![Query2](Screenshots/Query 2.png)
+![Query2](Screenshots/Query2.png)
 
-![Query3](Screenshots/Query 3.png)
+![Query3](Screenshots/Query3.png)
 
-![Query4](Screenshots/Query 4.png)
+![Query4](Screenshots/Query4.png)
 
 ---
 

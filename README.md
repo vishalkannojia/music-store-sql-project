@@ -75,6 +75,8 @@ The database contains the following tables:
 
 ## 📊 ER Diagram
 
+This is the database structure of the Music Store project.
+
 ![ER Diagram](images/ERD.png)
 
 ---

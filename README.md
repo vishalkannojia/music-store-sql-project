@@ -26,17 +26,17 @@ In this project I used SQL concepts like joins, group by, subqueries, CTE, and w
 
 The database contains the following tables:
 
-*album
-*artist
-*customer
-*employee
-*genre
-*invoice
-*invoice_line
-*media_type
-*playlist
-*playlist_track
-*track
+* album
+* artist
+* customer
+* employee
+* genre
+* invoice
+* invoice_line
+* media_type
+* playlist
+* playlist_track
+* track
 
 ---
 

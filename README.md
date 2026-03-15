@@ -75,7 +75,7 @@ The database contains the following tables:
 
 ## 📊 ER Diagram
 
-(Add ERD image here)
+![ER Diagram](images/ERD.png)
 
 ---
 
